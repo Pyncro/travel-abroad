@@ -11,3 +11,11 @@ Main website color used: (https://coolors.co)
 #ADA7C9
 #D7B9D5
 #F4CAE0
+
+
+
+Martinique. (https://realtimecolors.com/?colors=000000-64a6bd-f4cae0-ada7c9-d7b9d5)
+
+Guadeloupe. (https://realtimecolors.com/?colors=000000-f4cae0-d7b9d5-ada7c9-90a8c3)
+
+Saint-Martin. (https://realtimecolors.com/?colors=000000-ada7c9-64a6bd-d7b9d5-f4cae0)
